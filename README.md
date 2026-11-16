@@ -91,7 +91,7 @@ Depending on your available GPU VRAM / system RAM, you can select between lightw
 Clone the repository and set up a virtual environment:
 
 ```bash
-git clone [https://github.com/](https://github.com/)<your-username>/local-rag-assistant.git
+git clone https://github.com/xdennis090/local-rag-assistant.git
 cd local-rag-assistant
 
 python -m venv .venv
