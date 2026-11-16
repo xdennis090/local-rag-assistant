@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Vector Store & Runtime Data
+chroma_db/
+data/uploaded_docs/
+
+# Environment & IDE
+.env
+.vscode/
+.idea/
+.DS_Store
